@@ -21,7 +21,7 @@
 
 html, body {
   font-family: 'Helvetica Neue';
-  background-color: #F1AD7E;
+  background-color: #00100B;
   color: #FBFBFB
 }
 
@@ -102,6 +102,10 @@ img.rounded-thumb:hover {
 
 div.grid {
   padding: 50px 25px;
+}
+
+div.grid p {
+  width: 100%;
 }
 
 div.grid > .col {
